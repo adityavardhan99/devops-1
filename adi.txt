@@ -1,7 +1,0 @@
-Hello world!Welcome to git.
-Branch is dev1
-fffffffffff
-gggggggggggg
-ggggggggggggg
-kkkkkkkkkkkk
-llllllllllllll
